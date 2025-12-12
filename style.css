@@ -437,10 +437,9 @@ p {
 
 .stat-number {
     display: inline-block;
-    font-size: 2.5rem;
+    font-size: 2rem;
     font-weight: 700;
     color: var(--accent-color);
-    margin-bottom: 0.5rem;
     transition: all 0.3s ease;
 }
 
@@ -821,7 +820,7 @@ p {
 }
 
 .stat-item .stat-number {
-    font-size: 2rem;
+    font-size: 4rem;
     font-weight: 700;
     color: var(--accent-color);
 }
@@ -911,7 +910,7 @@ p {
     display: flex;
     flex-direction: column;
     gap: 0.8rem;
-    margin: 1rem 0;
+    margin: 0;
 }
 
 .country-item {
