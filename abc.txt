@@ -1,0 +1,224 @@
+<section id="projects" class="projects scroll-animate">
+        <div class="container">
+            <h2 class="fade-up">Mis Proyectos</h2>
+            <div class="masonry-grid">
+                <div class="project-card fade-up-delay-1">
+                    <h3>Sistema de Evaluación de Talento Bancario</h3>
+                    <p class="company">Canvia</p>
+                    <p>Desarrollo de aplicación web crítica para el <strong>Departamento de RRHH de importante entidad
+                            bancaria</strong>, diseñada para evaluar rendimiento y calificar talento humano en todas las
+                        áreas institucionales. Sistema integral con optimización avanzada de stored procedures y gestión
+                        personalizada de capacidades organizacionales. <strong>Gestioné comunicación directa con
+                            cliente</strong> y documentación completa del sistema.</p>
+                    <div class="project-highlights">
+                        <div class="highlight-item">
+                            <i class="fas fa-chart-line"></i>
+                            <span>Evaluación 360°</span>
+                        </div>
+                        <div class="highlight-item">
+                            <i class="fas fa-users-cog"></i>
+                            <span>Gestión RRHH</span>
+                        </div>
+                        <div class="highlight-item">
+                            <i class="fas fa-tachometer-alt"></i>
+                            <span>Optimización BD</span>
+                        </div>
+                        <div class="highlight-item">
+                            <i class="fas fa-handshake"></i>
+                            <span>Gestión Cliente</span>
+                        </div>
+                    </div>
+                    <ul class="tech-list-inline">
+                        <li>CodeIgniter</li>
+                        <li>JavaScript</li>
+                        <li>jQuery</li>
+                        <li>Oracle DB</li>
+                        <li>PL/SQL</li>
+                        <li>HTML</li>
+                        <li>PHP</li>
+                    </ul>
+                </div>
+                <div class="project-card fade-up-delay-2">
+                    <h3>Ecosistema de Servicios Empresariales</h3>
+                    <p class="company">Hitss Perú</p>
+                    <p>Desarrollo y mantenimiento de <strong>ecosistema completo de servicios digitales</strong>:
+                        Chatbot inteligente con flujos automatizados para auto-atención de incidencias, plataforma de
+                        gestión de servicios con dashboards en tiempo real, y continuación de herramienta de
+                        automatización legacy. <strong>Fui el creador original de la herramienta de automatización en
+                            2020</strong>, estableciendo las bases para la transformación digital de procesos críticos.
+                    </p>
+                    <div class="project-highlights">
+                        <div class="highlight-item">
+                            <i class="fas fa-robot"></i>
+                            <span>Chatbot IA</span>
+                        </div>
+                        <div class="highlight-item">
+                            <i class="fas fa-chart-bar"></i>
+                            <span>Dashboards RT</span>
+                        </div>
+                        <div class="highlight-item">
+                            <i class="fas fa-cog"></i>
+                            <span>Automatización</span>
+                        </div>
+                        <div class="highlight-item">
+                            <i class="fas fa-crown"></i>
+                            <span>Creador Original</span>
+                        </div>
+                    </div>
+                    <ul class="tech-list-inline">
+                        <li>Spring Boot 3</li>
+                        <li>Vue.js</li>
+                        <li>Node.js</li>
+                        <li>Apache NiFi</li>
+                        <li>Oracle DB</li>
+                        <li>MySQL</li>
+                        <li>JWT</li>
+                        <li>CentOS</li>
+                    </ul>
+                </div>
+                <div class="project-card fade-up-delay-3">
+                    <h3>Plataforma E-Learning Completa</h3>
+                    <p class="company">SECREA</p>
+                    <p>Desarrollo integral de ecosistema educativo digital: aplicación móvil híbrida y SPA web para
+                        contenido multimedia (audio, video, texto, imágenes). Implementación de seguimiento de progreso
+                        en tiempo real y arquitectura escalable. <strong>Lideré el equipo de desarrollo</strong> desde
+                        el diseño arquitectónico hasta el despliegue, gestionando dailies y control de versiones.</p>
+                    <div class="project-highlights">
+                        <div class="highlight-item">
+                            <i class="fas fa-cogs"></i>
+                            <span>Arquitectura Full Stack</span>
+                        </div>
+                        <div class="highlight-item">
+                            <i class="fas fa-users"></i>
+                            <span>Liderazgo de Equipo</span>
+                        </div>
+                        <div class="highlight-item">
+                            <i class="fas fa-mobile-alt"></i>
+                            <span>App Híbrida + SPA</span>
+                        </div>
+                    </div>
+                    <ul class="tech-list-inline">
+                        <li>Laravel</li>
+                        <li>Vue.js</li>
+                        <li>JavaScript</li>
+                        <li>MySQL</li>
+                        <li>CSS</li>
+                        <li>HTML</li>
+                        <li>Git</li>
+                    </ul>
+                </div>
+                <div class="project-card fade-up-delay-4">
+                    <h3>Plataforma de Automatización Empresarial</h3>
+                    <p class="company">Hitss Perú - Claro Perú</p>
+                    <p>Desarrollo de herramienta crítica para <strong>migrar y gobernar procesos legacy</strong> de
+                        shell scripts a una plataforma segura y controlada. Sistema on-premise con arquitectura híbrida
+                        (Laravel + Spring Boot) que gestiona múltiples bases de datos y automatiza procesos de soporte
+                        de aplicaciones para una de las telecomunicadoras más grandes de Latinoamérica.</p>
+                    <div class="project-highlights">
+                        <div class="highlight-item">
+                            <i class="fas fa-shield-alt"></i>
+                            <span>Migración Segura</span>
+                        </div>
+                        <div class="highlight-item">
+                            <i class="fas fa-database"></i>
+                            <span>Múltiples BD</span>
+                        </div>
+                        <div class="highlight-item">
+                            <i class="fas fa-server"></i>
+                            <span>On-Premise Linux</span>
+                        </div>
+                        <div class="highlight-item">
+                            <i class="fas fa-robot"></i>
+                            <span>SQL Loader</span>
+                        </div>
+                    </div>
+                    <ul class="tech-list-inline">
+                        <li>Laravel</li>
+                        <li>Spring Boot</li>
+                        <li>Vue.js</li>
+                        <li>Oracle DB</li>
+                        <li>MariaDB</li>
+                        <li>JWT</li>
+                        <li>Docker</li>
+                        <li>Linux</li>
+                    </ul>
+                </div>
+                <div class="project-card">
+                    <h3>Plataforma de Transporte con Ofertas en Tiempo Real</h3>
+                    <p class="company">Chapape - Software Architect</p>
+                    <p>Como <strong>Software Architect</strong>, diseñé y desarrollé desde cero una plataforma completa
+                        de transporte con conductor bajo el innovador modelo de ofertas en tiempo real. Arquitectura
+                        avanzada basada en <strong>microservicios con Clean Architecture</strong>, desplegada en AWS con
+                        infraestructura como código. Incluye aplicaciones móviles Android nativas y sitios web modernos.
+                        <strong>Capacité equipos y administré toda la infraestructura cloud</strong> durante 3+ años.
+                    </p>
+                    <div class="project-highlights">
+                        <div class="highlight-item">
+                            <i class="fas fa-sitemap"></i>
+                            <span>Clean Architecture</span>
+                        </div>
+                        <div class="highlight-item">
+                            <i class="fas fa-cubes"></i>
+                            <span>Microservicios</span>
+                        </div>
+                        <div class="highlight-item">
+                            <i class="fas fa-cloud"></i>
+                            <span>AWS Native</span>
+                        </div>
+                        <div class="highlight-item">
+                            <i class="fas fa-graduation-cap"></i>
+                            <span>Mentor Técnico</span>
+                        </div>
+                    </div>
+                    <ul class="tech-list-inline">
+                        <li>Spring Boot 3</li>
+                        <li>Kotlin</li>
+                        <li>Nuxt 3</li>
+                        <li>TypeScript</li>
+                        <li>AWS</li>
+                        <li>CloudFormation</li>
+                        <li>Docker</li>
+                        <li>MongoDB</li>
+                    </ul>
+                </div>
+                <div class="project-card">
+                    <h3>Servicios Financieros de Alta Disponibilidad</h3>
+                    <p class="company">Pragma - Nequi (Bancolombia)</p>
+                    <p><strong>Proyecto actual</strong> desarrollando y manteniendo servicios críticos en AWS para
+                        <strong>Nequi, la fintech líder de Bancolombia</strong>. Implementación de microservicios
+                        reactivos con Spring WebFlux, arquitectura serverless con AWS Lambda, y pipelines de CI/CD
+                        robustos. Responsable de servicios que manejan millones de transacciones financieras diarias con
+                        alta disponibilidad y seguridad bancaria.
+                    </p>
+                    <div class="project-highlights">
+                        <div class="highlight-item">
+                            <i class="fas fa-university"></i>
+                            <span>Fintech Líder</span>
+                        </div>
+                        <div class="highlight-item">
+                            <i class="fas fa-bolt"></i>
+                            <span>Programación Reactiva</span>
+                        </div>
+                        <div class="highlight-item">
+                            <i class="fas fa-lambda"></i>
+                            <span>Serverless</span>
+                        </div>
+                        <div class="highlight-item">
+                            <i class="fas fa-infinity"></i>
+                            <span>CI/CD</span>
+                        </div>
+                    </div>
+                    <ul class="tech-list-inline">
+                        <li>Spring Boot 3</li>
+                        <li>Spring WebFlux</li>
+                        <li>AWS Lambda</li>
+                        <li>Node.js</li>
+                        <li>Terraform</li>
+                        <li>Docker</li>
+                        <li>Azure DevOps</li>
+                        <li>GitFlow</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
